@@ -1,0 +1,1 @@
+function scanFingerprint() { return true; }
